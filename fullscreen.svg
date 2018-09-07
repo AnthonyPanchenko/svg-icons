@@ -3,30 +3,10 @@
 <svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
 <g>
-	<g>
-		<g>
-			<g id="fullscreen">
-				<path d="M20.1,187.1h42.3V97.8h102V59H20.1V187.1z"/>
-			</g>
-		</g>
-		<g>
-			<g id="fullscreen_1_">
-				<path d="M494.4,59H350.1v38.8l102,0v89.3h42.3V59z"/>
-			</g>
-		</g>
-	</g>
-	<g>
-		<g>
-			<g id="fullscreen_3_">
-				<path d="M17.6,453h144.3v-38.8h-102V325H17.6V453z"/>
-			</g>
-		</g>
-		<g>
-			<g id="fullscreen_2_">
-				<path d="M491.9,325h-42.3v89.3h-102V453h144.3V325z"/>
-			</g>
-		</g>
-	</g>
+	<polygon points="53.3,93.7 161.2,93.7 161.2,57.9 17.4,57.9 17.4,183.8 53.3,183.8 	"/>
+	<polygon points="53.1,327.9 17.6,327.9 17.6,454.2 161.2,454.2 161.2,419.1 53.1,419.1 	"/>
+	<polygon points="350.8,57.8 350.8,93.6 458.7,93.6 458.7,183.7 494.6,183.7 494.6,57.8 	"/>
+	<polygon points="458.9,418.9 350.8,418.9 350.8,454.1 494.4,454.1 494.4,327.8 458.9,327.8 	"/>
+	<rect x="107.3" y="147.9" width="296" height="216"/>
 </g>
-<rect x="113" y="146" width="286" height="220"/>
 </svg>

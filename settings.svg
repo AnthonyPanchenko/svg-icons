@@ -3,14 +3,14 @@
 <svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
 <g>
-	<path d="M10.5,283.5h128v82h-128V283.5z"/>
-	<path d="M46.5,21.5h56v226h-56V21.5z"/>
-	<path d="M46.5,399.5h56v92h-56V399.5z"/>
-	<path d="M192.5,166.5h128v82h-128V166.5z"/>
-	<path d="M230.5,21.5h56v111h-56V21.5z"/>
-	<path d="M230.5,283.5h56v207h-56V283.5z"/>
-	<path d="M373.5,283.5h128v82h-128V283.5z"/>
-	<path d="M409.5,399.5h56v91h-56V399.5z"/>
-	<path d="M409.5,20.5h56v226h-56V20.5z"/>
+	<path d="M18,282.2h120.4v76.2H18V282.2z"/>
+	<path d="M52.8,28.5h54.3v211.2H52.8V28.5z"/>
+	<path d="M52.8,404.2h54.3v80.2H52.8V404.2z"/>
+	<path d="M187,176.5h138v77.3H187V176.5z"/>
+	<path d="M228.8,28.5h54.3v104.7h-54.3V28.5z"/>
+	<path d="M228.8,298.7h54.3v184.8h-54.3V298.7z"/>
+	<path d="M371.6,282.2H492v77.2H371.6V282.2z"/>
+	<path d="M404.9,404.2h54.3v79.3h-54.3V404.2z"/>
+	<path d="M404.9,27.6h54.3v211.2h-54.3V27.6z"/>
 </g>
 </svg>
